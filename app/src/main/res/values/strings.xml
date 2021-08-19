@@ -1,0 +1,40 @@
+<resources>
+    //name app
+    <string name="app_name">Калькулятор налогов ИП</string>
+
+    //title
+    <string name="interType">Выберите тип налогооблажения:</string>
+
+    //quarters
+    <string name="quarter1">Доход за первый квартал:</string>
+    <string name="quarter2">Доход за второй квартал:</string>
+    <string name="quarter3">Доход за третий квартал:</string>
+    <string name="quarter4">Доход за четвертый квартал:</string>
+
+    //output
+    <string name="sum">0</string>
+
+    //type
+    <string name="usn">УСН</string>
+    <string name="osno">ОСНО</string>
+    <string name="eshn">ЕСХН</string>
+    <string name="envd">ЕНВД</string>
+    <string name="psn">ПСН</string>
+
+    //button
+    <string name="btn_clear">Очистить</string>
+    <string name="btn_back">Назад</string>
+    <string name="btn_sum">Посчитать</string>
+    <string name="btn_exit">Выход</string>
+    <string name="btn_usn">УСН</string>
+    <string name="btn_osno">ОСНО</string>
+    <string name="btn_eshn">ЕСХН</string>
+    <string name="btn_envd">ЕНВД</string>
+    <string name="btn_psn">ПСН</string>
+
+
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+</resources>
