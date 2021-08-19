@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         usn_button.setOnClickListener(this);
     }
 
-    public void onClick(View v) {
+    public void onClick(View v) { //определяем кнопки выбора налогообложения
         switch (v.getId()) {
             case R.id.usn_button:
                 Intent i = new Intent(MainActivity.this, UsnActivity.class);
